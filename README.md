@@ -5,7 +5,8 @@ Analyzing data related to this domain could yield significant insights into the 
 
 ## Business Context
 Access to credit is a crucial factor for the success of small businesses within the dynamic sector. The loan approval process, influenced by complex algorithms and financial policies, presents significant challenges for many small enterprises due to the opaque criteria. This project aims to demystify these loan approval mechanisms by analysing data from the SBA, shedding light on their economic implications.
-1.2. Problem Statement
+
+### Problem Statement
 The importance of small businesses to economic growth and employment is well-recognized, yet the loan approval criteria set by banks, under SBA's guidance, remain unclear. This opacity is a big obstacle for small businesses in obtaining necessary funding. By employing machine learning techniques to evaluate SBA loan data, this project seeks to determine factors influencing loan approval decisions.
 1.3. Objectives
 This report explores the use of machine learning to analyze SBA loan data, with the goal of uncovering the criteria banks use for loan decisions. The analysis aims to provide insights into the financial support mechanisms for small businesses, offering a deeper understanding of their economic and social implications, including effects on employment growth.
