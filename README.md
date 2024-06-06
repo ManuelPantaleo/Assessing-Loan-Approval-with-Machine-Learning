@@ -1,4 +1,4 @@
-# Assessing Loan Approval using Machine Learning
+# Assessing Loan Approval Using Machine Learning
 
 ## 1. Introduction
 The primary aim of this Machine Learning project is to assess the likelihood of loan approval or denial for small businesses. Our preliminary work involves selecting an appropriate dataset from the US Small Business Administration (SBA). Since its inception in 1953, the SBA has been instrumental in aiding entrepreneurs in gaining access to the US credit markets, either partially or wholly supported by US financing mechanisms.
